@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋 I'm Ella Bianca
 
-<!--
-**ellabianca/ellabianca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+       🎓About Me
+      
+      💻 BSIT Student at Laguna State Polytechnic University
 
-Here are some ideas to get you started:
+      🌱 Currently learning Python, Flask, SQL, Flutter, and Dart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      🎯 Aspiring to become a Web and Mobile Application Developer and UX/UI designer
+ 
+      💡 Interested about Software Development and UI/UX Design
+
+      Design
+
+     🚀 Skills
+
+        UI/UX Skills: Wireframing, Prototyping, User Interface Design, User Experience Design
+        Design Tools: Figma, Canva, Adobe XD
+
+     📌 Current Projects
+     
+     🧠 Exploring Git and GitHub for source control and collaboration
+
+     🛠️ Building hands-on projects using Python and Flutter
+
+     🌐Designing and developing small applications for portfolio enhancement
+
+
+     Connect with me 👉👈
+        ellabiancasanroque029@gmail.com
